@@ -24,7 +24,11 @@
 * After the analysis FPDF (Free PDf) will be created.
 * Finally Student data is shown in PDF file in structural way.
 
-  #OUTPUT
+  #OUTPUT PDF LINK : 
 
   [student_performance_report.pdf](https://github.com/user-attachments/files/21551134/student_performance_report.pdf)
+
+  #OUTPUT PDf PHOTO :
+
+  <img width="743" height="832" alt="Image" src="https://github.com/user-attachments/assets/d755cc6c-31bf-4ad7-ba4e-27f32d157c9e" />
 
